@@ -1,0 +1,8 @@
+{
+  yoursInvestor: {
+    login: "login@gmail.com",
+    password: "password",
+    articles_db_file: "articles.db",
+    users: [ "jurajbednar", "paralelnapolis", "satoshidoodles", "ryanxcharles" ]
+  }
+}
